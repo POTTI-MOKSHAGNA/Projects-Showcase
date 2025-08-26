@@ -1,0 +1,14 @@
+/* NavBar Component Styles */
+
+.nav-bar {
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  padding: 12px 24px;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+.logo {
+  width: 160px;
+  height: auto;
+}
